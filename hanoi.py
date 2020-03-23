@@ -1,13 +1,3 @@
-'''
-CS 5001
-FALL 2019
-Soumeng Chea
-
-I used this website for information on the programming and understanding the game:
-https://www.hackerearth.com/blog/developers/tower-hanoi-recursion-game-algorithm-explained/
-'''
-
-
 from hanoi_viz import *
 
 num_disk = 5
